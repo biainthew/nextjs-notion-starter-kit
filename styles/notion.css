@@ -57,7 +57,7 @@
 }
 
 .notion-aside {
-  display: none;
+  display: none !important;
 }
 
 .notion-gallery-grid {
