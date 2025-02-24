@@ -414,3 +414,7 @@
 .notion-equation.notion-equation-block{
   align-items: center;
 }
+
+.notion-page-content {
+  width: 100% !important;
+}
