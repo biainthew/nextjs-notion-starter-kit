@@ -9,12 +9,12 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Bia \' Blog',
-  domain: 'example-xxx-yyy.vercel.app',
+  name: 'aibOS',
+  domain: 'aibos.vercel.app',
   author: 'Lee Bia',
 
   // open graph metadata (optional)
-  description: 'Bia \' Blog',
+  description: 'Bia\'s Blog',
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
