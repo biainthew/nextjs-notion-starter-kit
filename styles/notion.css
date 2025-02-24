@@ -7,6 +7,9 @@
  * places to add some flare.
  */
 
+@import url('https://fonts.googleapis.com/css2?family=42dot+Sans:wght@300..800&display=swap');
+*{font-family: "42dot Sans", serif;}
+
 .notion {
   --notion-max-width: 720px;
   --notion-header-height: 54px;
@@ -51,6 +54,10 @@
 
 .notion-nav-header-rhs {
   gap: 0.5rem;
+}
+
+.notion-aside {
+  display: none;
 }
 
 .notion-gallery-grid {
