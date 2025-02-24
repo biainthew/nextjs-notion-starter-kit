@@ -14,11 +14,11 @@ export default siteConfig({
   author: 'Lee Bia',
 
   // open graph metadata (optional)
-  description: 'Bia\'s Blog',
+  description: 'Bia\'s blog',
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
-  github: 'biainthew',
+  // github: 'biainthew',
   // linkedin: 'fisch2',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
